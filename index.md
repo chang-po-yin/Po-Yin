@@ -1,37 +1,11 @@
 ## Welcome to Po-Yin Chang's Pages
 
-You can use the [editor on GitHub](https://github.com/chang-po-yin/Self/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Po-Yin Chang** received his M.S. degree in the Department of Business Management from National Taipei University of Technology, Taiwan in 2005 and Ph.D. degree in the Department of Information Management from National Sun Yat-sen University, Taiwan in 2014. He is currently a research fellow of the Department of Electronic Engineering at National Kaohsiung University of Science and Technology, Taiwan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chang-po-yin/Self/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+His research interests include artiﬁcial intelligence, machine learning, smart systems, and embedded systems.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+underconstruction.
